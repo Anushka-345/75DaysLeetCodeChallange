@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
