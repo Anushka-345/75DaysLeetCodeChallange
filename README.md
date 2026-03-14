@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
