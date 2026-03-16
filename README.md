@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
