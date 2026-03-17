@@ -2,29 +2,27 @@ class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int, int> freq;
-        
-        // Step 1: Count frequency
+
+        // Step 1: Frequency count → O(n)
         for (int num : nums) {
             freq[num]++;
         }
-        
-        // Step 2: Create buckets
-        int n = nums.size();
-        vector<vector<int>> bucket(n + 1);
-        
-        for (auto &it : freq) {
-            bucket[it.second].push_back(it.first);
+
+        // Step 2: Bucket creation → O(n)
+        vector<vector<int>> bucket(nums.size() + 1);
+        for (auto &p : freq) {
+            bucket[p.second].push_back(p.first);
         }
-        
-        // Step 3: Collect top k frequent elements
-        vector<int> result;
-        for (int i = n; i >= 0 && result.size() < k; i--) {
+
+        // Step 3: Collect top k → O(n)
+        vector<int> res;
+        for (int i = nums.size(); i >= 0 && res.size() < k; i--) {
             for (int num : bucket[i]) {
-                result.push_back(num);
-                if (result.size() == k) break;
+                res.push_back(num);
+                if (res.size() == k) return res;
             }
         }
-        
-        return result;
+
+        return res;
     }
 };
