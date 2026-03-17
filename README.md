@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Greedy
 |  |
