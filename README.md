@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Math
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
