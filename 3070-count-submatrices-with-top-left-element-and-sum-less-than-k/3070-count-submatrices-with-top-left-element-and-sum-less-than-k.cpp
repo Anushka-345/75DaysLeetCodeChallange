@@ -4,17 +4,16 @@ public:
         int m = grid.size(), n = grid[0].size();
         int count = 0;
 
-        vector<vector<long long>> pref(m, vector<long long>(n, 0));
-
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                pref[i][j] = grid[i][j];
 
-                if (i > 0) pref[i][j] += pref[i-1][j];
-                if (j > 0) pref[i][j] += pref[i][j-1];
-                if (i > 0 && j > 0) pref[i][j] -= pref[i-1][j-1];
+                // Build prefix sum in-place
+                if (i > 0) grid[i][j] += grid[i-1][j];
+                if (j > 0) grid[i][j] += grid[i][j-1];
+                if (i > 0 && j > 0) grid[i][j] -= grid[i-1][j-1];
 
-                if (pref[i][j] <= k) count++;
+                // Check condition
+                if (grid[i][j] <= k) count++;
             }
         }
 
