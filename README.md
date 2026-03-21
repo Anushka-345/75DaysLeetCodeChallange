@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
@@ -251,5 +253,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
