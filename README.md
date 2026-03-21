@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0234-palindrome-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
