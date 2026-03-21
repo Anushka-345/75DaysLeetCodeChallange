@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0206-reverse-linked-list) |
