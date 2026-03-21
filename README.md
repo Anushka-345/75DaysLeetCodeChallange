@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
+| [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1139-largest-1-bordered-square](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1139-largest-1-bordered-square) |
@@ -229,11 +232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Merge Sort
 |  |
