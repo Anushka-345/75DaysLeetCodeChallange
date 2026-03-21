@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Math
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
