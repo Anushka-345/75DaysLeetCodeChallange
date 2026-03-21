@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
+| [0198-house-robber](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0097-interleaving-string) |
+| [0198-house-robber](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
 | [1139-largest-1-bordered-square](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1139-largest-1-bordered-square) |
 ## Backtracking
 |  |
