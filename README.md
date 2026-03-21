@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1139-largest-1-bordered-square](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1139-largest-1-bordered-square) |
 | [1386-cinema-seat-allocation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
