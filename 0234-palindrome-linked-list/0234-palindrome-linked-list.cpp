@@ -11,52 +11,40 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        if (head == NULL || head->next == NULL)
+         if (!head || !head->next) return true;
+
+        ListNode *temp = head;
+        int count = 0 ;
+        while(temp){
+            count++;
+            temp = temp->next;
+        }
+        ListNode *curr = head;
+        ListNode *prev = NULL;
+        count /= 2 ;
+        while(count--){
+            prev = curr;
+            curr = curr->next;
+        }
+        ListNode *front = NULL;
+        prev = NULL;
+        while(curr){
+            front = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr= front;
+        }
+         ListNode *head1 = head;
+    ListNode *head2 = prev;
+
+    while (head2) {
+        if (head1->val != head2->val) {  // ✅ correct
+            return false;
+        }
+        head1 = head1->next;
+        head2 = head2->next;
+    }
+
     return true;
-
-ListNode *temp = head;
-int count = 0;
-
-// Count nodes
-while (temp) {
-    count++;
-    temp = temp->next;
-}
-
-// Move to middle
-count /= 2;
-ListNode *curr = head;
-ListNode *prev = NULL;
-
-while (count--) {
-    prev = curr;
-    curr = curr->next;
-}
-
-// Break list into two halves
-prev->next = NULL;
-
-// Reverse second half
-ListNode *front;
-prev = NULL;
-while (curr) {
-    front = curr->next;
-    curr->next = prev;
-    prev = curr;
-    curr = front;
-}
-
-// Compare both halves
-ListNode* head1 = head;
-ListNode* head2 = prev;
-
-while (head1 && head2) {
-    if (head1->val != head2->val)
-        return false;
-    head1 = head1->next;
-    head2 = head2->next;
-}
-
-return true;  // ✅ FIX
     }
 };
