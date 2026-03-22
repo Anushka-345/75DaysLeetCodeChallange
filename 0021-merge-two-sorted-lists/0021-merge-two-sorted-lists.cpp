@@ -21,7 +21,9 @@ public:
     } else {
         tail->next = list2;
     }
-    return head->next;
+    ListNode *dummy = head->next;
+    delete head ;
+    return dummy;
 
 
 
