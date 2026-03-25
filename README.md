@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 ## Recursion
 |  |
 | ------- |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
