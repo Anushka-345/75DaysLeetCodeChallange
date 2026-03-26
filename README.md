@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
