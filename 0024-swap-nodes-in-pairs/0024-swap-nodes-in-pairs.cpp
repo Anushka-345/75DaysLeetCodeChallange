@@ -28,6 +28,9 @@ public:
     if(prev){
         prev->next = sec;
     }
+    else{
+        prev = first;
+    }
 
     // Move prev and first to next pair
     prev = first;
