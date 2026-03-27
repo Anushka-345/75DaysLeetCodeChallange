@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2906-construct-product-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
 |  |
 | ------- |
