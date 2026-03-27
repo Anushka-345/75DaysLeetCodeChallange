@@ -13,8 +13,10 @@ public:
                 curr -= nums[left];
                 left++;
             }
-            s.insert(nums[right]);
+            
             curr+= nums[right];
+            s.insert(nums[right]);
+
     
             if(s.size()==k){
                 maxSum = max(maxSum,curr);
