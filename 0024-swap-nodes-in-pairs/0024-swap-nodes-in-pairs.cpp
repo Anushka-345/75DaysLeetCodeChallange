@@ -14,8 +14,8 @@ public:
     if(!head || !head->next) return head;
       ListNode* first = head;
       ListNode* sec = head->next;
-        ListNode*prev = NULL;
-        head = sec;
+        ListNode* prev = NULL;
+    head = sec;
 
      while(first && sec){
     ListNode* thrid = sec->next;  // store next pair
