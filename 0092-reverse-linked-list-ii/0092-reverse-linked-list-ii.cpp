@@ -10,8 +10,8 @@
  */
 class Solution {
 public:
-     ListNode* reverseBetween(ListNode* head, int left, int right) {
-    if (!head || left == right || !head->next) return head;
+    ListNode* reverseBetween(ListNode* head, int left, int right) {
+         if (!head || left == right || !head->next) return head;
     ListNode* curr = head ;
     ListNode* prev = NULL;
     int i = 1 ;
@@ -39,9 +39,5 @@ public:
         return prev;
     }
      return head;
-     }
+    }
 };
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
