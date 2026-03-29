@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
