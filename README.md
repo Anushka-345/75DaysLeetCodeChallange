@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Math
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Hash Function
 |  |
