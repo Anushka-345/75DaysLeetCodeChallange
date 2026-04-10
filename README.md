@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0202-happy-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0146-lru-cache) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
