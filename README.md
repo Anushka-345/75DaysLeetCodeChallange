@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
 | [1139-largest-1-bordered-square](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1139-largest-1-bordered-square) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
