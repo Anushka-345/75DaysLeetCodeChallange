@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Rolling Hash
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union-Find
 |  |
@@ -437,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1534-count-good-triplets) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
