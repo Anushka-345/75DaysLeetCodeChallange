@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
