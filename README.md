@@ -348,11 +348,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Design
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union-Find
 |  |
@@ -457,9 +460,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
