@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
