@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0126-word-ladder-ii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
