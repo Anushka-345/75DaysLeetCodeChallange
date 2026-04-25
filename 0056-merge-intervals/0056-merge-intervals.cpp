@@ -1,24 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        if(intervals.empty()) return {};
-        
-        // Sort intervals by start time
+        if (intervals.empty()) return {};
+
+        // sort by starting time
         sort(intervals.begin(), intervals.end());
-        
-        vector<vector<int>> merged;
-        merged.push_back(intervals[0]);
-        
-        for(int i = 1; i < intervals.size(); i++) {
-            if(intervals[i][0] <= merged.back()[1]) {
-                // Overlapping, merge by updating the end
-                merged.back()[1] = max(merged.back()[1], intervals[i][1]);
-            } else {
-                // Non-overlapping, add as new interval
-                merged.push_back(intervals[i]);
+
+        vector<vector<int>> result;
+        vector<int> current = intervals[0];
+
+        for (int i = 1; i < intervals.size(); i++) {
+            vector<int> next = intervals[i];
+
+            // overlap condition
+            if (next[0] <= current[1]) {
+                current[1] = max(current[1], next[1]);
+            } 
+            else {
+                result.push_back(current);
+                current = next;
             }
         }
-        
-        return merged;
+
+        result.push_back(current);
+        return result;
     }
 };
