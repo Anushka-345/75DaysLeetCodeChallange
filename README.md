@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0932-beautiful-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2833-furthest-point-from-origin](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2833-furthest-point-from-origin) |
