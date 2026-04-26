@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0155-min-stack) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0102-binary-tree-level-order-traversal) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0102-binary-tree-level-order-traversal) |
