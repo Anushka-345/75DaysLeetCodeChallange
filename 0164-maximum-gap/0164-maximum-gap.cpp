@@ -1,16 +1,40 @@
 class Solution {
 public:
     int maximumGap(vector<int>& nums) {
-        if (nums.size() < 2) return 0;
+        int n = nums.size();
+        if (n < 2) return 0;
 
-        sort(nums.begin(), nums.end());
+        int mn = *min_element(nums.begin(), nums.end());
+        int mx = *max_element(nums.begin(), nums.end());
 
-        int maxGap = 0;
+        if (mn == mx) return 0;
 
-        for (int i = 1; i < nums.size(); i++) {
-            maxGap = max(maxGap, nums[i] - nums[i - 1]);
+        int gap = max(1, (mx - mn) / (n - 1));
+
+        int bucketCount = (mx - mn) / gap + 1;
+
+        vector<int> bucketMin(bucketCount, INT_MAX);
+        vector<int> bucketMax(bucketCount, INT_MIN);
+        vector<bool> used(bucketCount, false);
+
+        for (int x : nums) {
+            int idx = (x - mn) / gap;
+
+            bucketMin[idx] = min(bucketMin[idx], x);
+            bucketMax[idx] = max(bucketMax[idx], x);
+            used[idx] = true;
         }
 
-        return maxGap;
+        int ans = 0;
+        int prevMax = mn;
+
+        for (int i = 0; i < bucketCount; i++) {
+            if (!used[i]) continue;
+
+            ans = max(ans, bucketMin[i] - prevMax);
+            prevMax = bucketMax[i];
+        }
+
+        return ans;
     }
 };
