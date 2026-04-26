@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
+| [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0485-max-consecutive-ones) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
