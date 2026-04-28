@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0263-ugly-number) |
 | [0932-beautiful-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3270-find-the-key-of-the-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3783-mirror-distance-of-an-integer) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
