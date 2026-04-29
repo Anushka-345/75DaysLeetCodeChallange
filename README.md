@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3169-count-days-without-meetings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3169-count-days-without-meetings) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Queue
 |  |
 | ------- |
