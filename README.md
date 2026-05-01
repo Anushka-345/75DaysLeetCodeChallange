@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0263-ugly-number) |
+| [0396-rotate-function](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0396-rotate-function) |
 | [0932-beautiful-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
+| [0396-rotate-function](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0396-rotate-function) |
 | [1139-largest-1-bordered-square](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1139-largest-1-bordered-square) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
