@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0874-walking-robot-simulation) |
 | [0932-beautiful-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1855-maximum-distance-between-a-pair-of-values) |
