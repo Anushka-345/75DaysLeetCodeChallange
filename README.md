@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0796-rotate-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0796-rotate-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
