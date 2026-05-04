@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0263-ugly-number) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
