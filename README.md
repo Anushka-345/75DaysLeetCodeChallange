@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0155-min-stack) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0543-diameter-of-binary-tree) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0543-diameter-of-binary-tree) |
