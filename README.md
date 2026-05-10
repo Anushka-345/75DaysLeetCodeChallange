@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2463-minimum-total-distance-traveled) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
