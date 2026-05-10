@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1139-largest-1-bordered-square](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1139-largest-1-bordered-square) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0932-beautiful-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1855-maximum-distance-between-a-pair-of-values) |
