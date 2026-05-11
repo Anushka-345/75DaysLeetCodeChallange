@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
