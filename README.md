@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3169-count-days-without-meetings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3169-count-days-without-meetings) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Queue
 |  |
 | ------- |
