@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
 | [1139-largest-1-bordered-square](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1139-largest-1-bordered-square) |
+| [1340-jump-game-v](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
 | [1534-count-good-triplets](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1534-count-good-triplets) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [1340-jump-game-v](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
 | [1139-largest-1-bordered-square](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1139-largest-1-bordered-square) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2463-minimum-total-distance-traveled) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
