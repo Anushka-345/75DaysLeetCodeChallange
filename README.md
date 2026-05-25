@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2463-minimum-total-distance-traveled) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2906-construct-product-matrix) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
+| [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
