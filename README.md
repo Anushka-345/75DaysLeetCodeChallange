@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0396-rotate-function) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0485-max-consecutive-ones) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
