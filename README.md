@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1695-maximum-erasure-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1695-maximum-erasure-value) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2615-sum-of-distances) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2354-number-of-excellent-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2354-number-of-excellent-pairs) |
 | [3488-closest-equal-element-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
