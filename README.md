@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
 | [3169-count-days-without-meetings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3169-count-days-without-meetings) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
 ## Binary Search Tree
 |  |
 | ------- |
