@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3270-find-the-key-of-the-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3870-count-commas-in-range) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -696,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
