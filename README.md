@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2354-number-of-excellent-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2354-number-of-excellent-pairs) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2463-minimum-total-distance-traveled](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
