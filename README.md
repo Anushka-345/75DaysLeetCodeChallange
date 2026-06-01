@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3270-find-the-key-of-the-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3783-mirror-distance-of-an-integer) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2463-minimum-total-distance-traveled](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2463-minimum-total-distance-traveled) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1695-maximum-erasure-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1695-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
