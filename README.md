@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1695-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
