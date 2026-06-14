@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2354-number-of-excellent-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2354-number-of-excellent-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
