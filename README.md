@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
