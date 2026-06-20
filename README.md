@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1840-maximum-building-height](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
 | [0932-beautiful-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1840-maximum-building-height](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
