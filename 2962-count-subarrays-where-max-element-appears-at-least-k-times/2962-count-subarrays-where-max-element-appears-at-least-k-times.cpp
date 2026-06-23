@@ -1,29 +1,21 @@
 class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int k) {
-        long long mx = 0 ;
-        for(int num : nums){
-            mx = max(mx, (long long)num);
-        }
-        long long left = 0 ;
-        long long count = 0 ;
-        long long ans = 0 ;
-        for(int right = 0 ; right < nums.size() ; right++ ){
-            if(nums[right]== mx){
-                count++;
+        int mx = *max_element(nums.begin(), nums.end());
+        int n = nums.size();
+        
+        long long ans = 0;
+        int l = 0, count = 0;
+
+        for (int r = 0; r < n; r++) {
+            if (nums[r] == mx) count++;
+
+            while (count >= k) {
+                ans += (n - r); // all subarrays ending at r or beyond
+                if (nums[l] == mx) count--;
+                l++;
             }
-            while(count >= k){
-                        ans += (nums.size() - right);
-
-
-                if(nums[left] == mx){
-                    count--;
-                }
-                left++;
-            }
-
         }
         return ans;
-    
     }
 };
