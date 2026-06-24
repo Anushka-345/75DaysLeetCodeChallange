@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3697-compute-decimal-representation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3697-compute-decimal-representation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3783-mirror-distance-of-an-integer) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
