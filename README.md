@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1345-jump-game-iv](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1657-determine-if-two-strings-are-close) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1004-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1695-maximum-erasure-value) |
