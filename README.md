@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3259-maximum-energy-boost-from-two-drinks) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3488-closest-equal-element-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -825,4 +830,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
