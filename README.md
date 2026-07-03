@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -659,10 +662,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
+| [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -714,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2354-number-of-excellent-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2354-number-of-excellent-pairs) |
 | [2540-minimum-common-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
@@ -834,4 +840,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
