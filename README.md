@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1345-jump-game-iv](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Rolling Hash
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -656,11 +658,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
