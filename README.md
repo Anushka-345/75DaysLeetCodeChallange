@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3169-count-days-without-meetings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
 |  |
 | ------- |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
