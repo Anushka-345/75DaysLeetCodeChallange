@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0128-longest-consecutive-sequence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0128-longest-consecutive-sequence) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0240-search-a-2d-matrix-ii) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
