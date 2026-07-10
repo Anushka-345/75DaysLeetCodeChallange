@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3488-closest-equal-element-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3169-count-days-without-meetings](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3169-count-days-without-meetings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
 | [2354-number-of-excellent-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2354-number-of-excellent-pairs) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Divide and Conquer
 |  |
@@ -686,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -743,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2354-number-of-excellent-pairs](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2354-number-of-excellent-pairs) |
 | [2540-minimum-common-value](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushka-345/75DaysLeetCodeChallange/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
